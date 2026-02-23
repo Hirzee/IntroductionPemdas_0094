@@ -20,4 +20,5 @@ int main ()
 
     //Hasil
     cout << "Hasilnya Adalah:" << luas << endl;
+     // selesai
 }
